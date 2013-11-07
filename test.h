@@ -3,7 +3,7 @@
 
 namespace hey {
 class You {
-  You(int num);//comment
+  You(int num);//comments
 };
 }
 
